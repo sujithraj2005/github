@@ -2,3 +2,5 @@ this is file2
 adding more content to file2
 
 adding more content
+
+adding more content
